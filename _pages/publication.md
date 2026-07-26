@@ -4,10 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 header:
-  overlay_image: /assets/images/Centrolenidae.JPG
+  overlay_image: /assets/images/Centrolenidae2.JPG
   
 ---
-
+<div style="font-size: 0.88em;">
 ## 📄 Journal Articles
 
 ### 2026
