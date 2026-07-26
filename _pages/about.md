@@ -5,7 +5,7 @@ editor_options:
   markdown: 
     wrap: 72
 header:
-  overlay_image: /assets/images/4.jpg
+  overlay_image: /assets/images/4.png
   
 ---
 
