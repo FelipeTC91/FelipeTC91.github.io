@@ -60,7 +60,7 @@ header:
 
 * **Toro-Cardona, F. A.** (2021) Red-headed Brittle-Snake (Urotheca fulviceps). In: Arteaga A, Bustamante L, Vieira J (Eds) Reptiles of Ecuador: Life in the middle of the world.. Available from: https://www.reptilesofecuador.com/urotheca_fulviceps.html
 
-* **Toro-Cardona, F. A.**, Arteaga A (2021) Ribboned Brittle-Snake (Urotheca lateristriga). In: Arteaga A, Bustamante L, Vieira J (Eds) Reptiles of Ecuador: Life in the middle of the world. Available from:
+* **Toro-Cardona, F. A.**, Arteaga A (2021) Ribboned Brittle-Snake (Urotheca lateristriga). In: Arteaga A, Bustamante L, Vieira J (Eds) Reptiles of Ecuador: Life in the middle of the world. Available from: https://www.reptilesofecuador.com/urotheca_lateristriga.html
   
 * Vásquez-Restrepo, J. D., **Toro-Cardona, F. A.**, Bravo, L., & Álzate, E. (2018). *Guía de Serpientes Valle de Aburrá*. Editorial CES. ISBN: 9789588674759.
 
