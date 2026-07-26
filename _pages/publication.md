@@ -4,19 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 header:
-  overlay_image: /assets/images/Centrolenidae2.jpg
+  overlay_image: /assets/images/Centrolenidae_ban.jpg
 ---
-
-<style>
-  .page__hero--overlay {
-    height: 200px !important;
-    min-height: 200px !important;
-    padding: 0 !important;
-    background-size: cover !important;
-    background-position: center !important;
-    background-repeat: no-repeat !important;
-  }
-</style>
 
 <div markdown="1">
 
