@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: " "
 editor_options: 
   markdown: 
     wrap: 72
