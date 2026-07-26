@@ -1,8 +1,6 @@
 ---
 permalink: /
-title: "
-
-"
+title: " Hi!"
 editor_options: 
   markdown: 
     wrap: 72
