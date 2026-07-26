@@ -5,7 +5,7 @@ editor_options:
   markdown: 
     wrap: 72
 header:
-  overlay_image: /assets/images/Anolis_ban.jpg
+  overlay_image: /assets/images/frog.jpg
   
 ---
 
