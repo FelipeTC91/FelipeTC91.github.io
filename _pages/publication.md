@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 header:
-  overlay_image: /assets/images/Frog.jpg
+  overlay_image: /assets/images/4.jpg
 ---
 
 <div markdown="1">
