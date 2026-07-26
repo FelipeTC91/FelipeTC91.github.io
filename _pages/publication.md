@@ -8,16 +8,21 @@ header:
 ---
 
 <style>
-  /* Controla la altura del banner y reencuadra la imagen gigante */
   .page__hero--overlay {
-    height: 200px !important;               /* Altura del banner (ajusta a 180px o 220px si quieres) */
+    height: 200px !important;
     min-height: 200px !important;
     padding: 0 !important;
-    background-size: cover !important;      /* Fuerza a la imagen a escalar sin deformarse */
-    background-position: center !important; /* Centra la foto en la parte principal */
+    background-size: cover !important;
+    background-position: center !important;
     background-repeat: no-repeat !important;
   }
 </style>
+
+<div markdown="1">
+
+You can also find my complete profile and citation metrics on [Google Scholar](https://scholar.google.com/citations?user=2b3hF0gAAAAJ&hl=es) or [ORCID](https://orcid.org/0000-0002-3112-1492).
+
+---
 
 ## 📄 Journal Articles
 
@@ -67,16 +72,14 @@ header:
 
 ## 📚 Books & Book Chapters
 
-* **Toro-Cardona, F. A.**, & Rincón-Aranguri, M. T. (2025). Snakes that rarely bite and have not caused significant envenomations or documented bites: Coral, Coral snake (*Micrurus ancoralis*). In: *Bites, venoms, and venomous snakes of Colombia*; Angarita-Sierra, T., & Ruiz-Gómez, F. J. (Eds.). Instituto Nacional de Salud: Bogotá D.C., Colombia. <a href="https://doi.org/10.33610/273165owedvx" class="btn btn--primary btn--small">DOI</a>
+* **Toro-Cardona, F. A.**, & Rincón-Aranguri, M. T. (2025). Snakes that rarely bite and have not caused significant envenomations or documented bites: Coral, Coral snake (*Micrurus ancoralis*). In: *Bites, venoms, and venomous snakes of Colombia*; Angarita-Sierra, T., & Ruiz-Gómez, F. J. (Eds.). Instituto Nacional de Salud: Bogotá D.C., Colombia. [DOI: 10.33610/273165owedvx](https://doi.org/10.33610/273165owedvx)
 
-* **Toro-Cardona, F. A.** (2021) Red-headed Brittle-Snake (Urotheca fulviceps). In: Arteaga A, Bustamante L, Vieira J (Eds) Reptiles of Ecuador: Life in the middle of the world. Available from: https://www.reptilesofecuador.com/urotheca_fulviceps.html
+* **Toro-Cardona, F. A.** (2021) Red-headed Brittle-Snake (Urotheca fulviceps). In: Arteaga A, Bustamante L, Vieira J (Eds) Reptiles of Ecuador: Life in the middle of the world. [Link](https://www.reptilesofecuador.com/urotheca_fulviceps.html)
 
-* **Toro-Cardona, F. A.**, Arteaga A (2021) Ribboned Brittle-Snake (Urotheca lateristriga). In: Arteaga A, Bustamante L, Vieira J (Eds) Reptiles of Ecuador: Life in the middle of the world. Available from: https://www.reptilesofecuador.com/urotheca_lateristriga.html
+* **Toro-Cardona, F. A.**, Arteaga A (2021) Ribboned Brittle-Snake (Urotheca lateristriga). In: Arteaga A, Bustamante L, Vieira J (Eds) Reptiles of Ecuador: Life in the middle of the world. [Link](https://www.reptilesofecuador.com/urotheca_lateristriga.html)
 
 * Vásquez-Restrepo, J. D., **Toro-Cardona, F. A.**, Bravo, L., & Álzate, E. (2018). *Guía de Serpientes Valle de Aburrá*. Editorial CES. ISBN: 9789588674759.
 
-* Daza Rojas J. & **Toro-Cardona, F. A.**. Bothrocophias campbelli (Friere-Lascano 1991). Pp 113-114. In: Morales-Betancourt M. A., C. A. Lasso, V. P. Paèz y B. C. Bock. Libro Rojo de Reptiles de Colombia (2015). Instituto de Investigación de Recursos Biológicos Alexander von Humbolt (IAvH), Universidad de Antoquia. Bogotà D. C., Colombia
+* Daza Rojas J. & **Toro-Cardona, F. A.**. Bothrocophias campbelli (Friere-Lascano 1991). Pp 113-114. In: Morales-Betancourt M. A., C. A. Lasso, V. P. Paèz y B. C. Bock. Libro Rojo de Reptiles de Colombia (2015). Instituto de Investigación de Recursos Biológicos Alexander von Humbolt (IAvH), Universidad de Antoquia. Bogotá D.C., Colombia.
 
----
-
-You can also find my complete profile and citation metrics on [Google Scholar](https://scholar.google.com/citations?user=2b3hF0gAAAAJ&hl=es) or [ORCID](https://orcid.org/0000-0002-3112-1492).
+</div>
