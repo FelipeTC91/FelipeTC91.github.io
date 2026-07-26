@@ -7,7 +7,6 @@ header:
   overlay_image: /assets/images/Centrolenidae2.JPG
   
 ---
-<div style="font-size: 0.88em;">
 ## 📄 Journal Articles
 
 ### 2026
