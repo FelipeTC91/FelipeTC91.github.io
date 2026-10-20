@@ -53,7 +53,7 @@ You can also find my complete profile and citation metrics on [Google Scholar](h
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 25px; padding-bottom: 20px; border-bottom: 1px solid #eaeaea;">
   <!-- Imagen miniatura -->
-  <img src="/assets/images/publications/Toro_Cardona et al_2023.jpg" alt="Predicting daily activity time" style="width: 110px; height: auto; min-width: 110px; margin-right: 18px; border-radius: 4px; border: 1px solid #ddd; object-fit: cover;">
+  <img src="/assets/images/Toro_Cardona et al_2023.jpg" alt="Predicting daily activity time" style="width: 110px; height: auto; min-width: 110px; margin-right: 18px; border-radius: 4px; border: 1px solid #ddd; object-fit: cover;">
   
   <!-- Contenido -->
   <div>
