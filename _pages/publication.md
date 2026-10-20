@@ -18,7 +18,7 @@ You can also find my complete profile and citation metrics on [Google Scholar](h
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 25px; padding-bottom: 20px; border-bottom: 1px solid #eaeaea;">
   <!-- Imagen miniatura -->
-  <img src="/assets/images/Toro_cardona et al_2026.jpg" alt="Climatic niche properties shape treefrog diversity" style="width: 500px; height: 500px; min-width: 170px; margin-right: 18px; border-radius: 4px; border: 1px solid #ddd; object-fit: cover;">
+  <img src="/assets/images/Toro_cardona et al_2026.jpg" alt="Climatic niche properties shape treefrog diversity" style="width: 500px; height: auto; min-width: 500px; margin-right: 18px; border-radius: 4px; border: 1px solid #ddd; object-fit: cover;">
   
   <!-- Contenido -->
   <div>
