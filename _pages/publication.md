@@ -8,6 +8,18 @@ header:
   overlay_image: /assets/images/3.png
 ---
 
+<style>
+  .sidebar, .author__profile {
+    display: none !important;
+  }
+  .initial-content, .page__inner-wrap, #main {
+    max-width: 100% !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    margin: 0 auto !important;
+  }
+</style>
+
 <div markdown="1">
 
 You can also find my complete profile and citation metrics on [Google Scholar](https://scholar.google.com/citations?user=2b3hF0gAAAAJ&hl=es) or [ORCID](https://orcid.org/0000-0002-3112-1492).
@@ -54,11 +66,11 @@ You can also find my complete profile and citation metrics on [Google Scholar](h
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 25px; padding-bottom: 20px; border-bottom: 1px solid #eaeaea;">
   <!-- Imagen miniatura -->
-  <img src="/assets/images/Toro_Cardona et al_2023.jpg" alt="Predicting daily activity time" style="width: 300px; height: auto; min-width: 300px; margin-right: 18px; border-radius: 4px; border: 1px solid #ddd; object-fit: cover;">
+  <img src="/assets/images/Toro_Cardona et al_2023.jpg" alt="Predicting daily activity time" style="width: 500px; height: auto; min-width: 500px; margin-right: 18px; border-radius: 4px; border: 1px solid #ddd; object-fit: cover;">
   
   <!-- Contenido -->
   <div>
-    <p style="margin: 0 0 6px 0; line-height: 1.4;">
+    <p style="margin: 0 0 6px 0; line-height: 1.4; font-size: 0.98em;">
       <strong>Toro-Cardona, F. A.</strong>, Parra, J. L., & Rojas-Soto, O. (2023). Predicting daily activity time through ecological niche modelling and microclimatic data. <em>Journal of Animal Ecology</em>, 92(4), 925-935. <a href="https://doi.org/10.1111/1365-2656.13895" target="_blank">[DOI]</a>
     </p>
     <!-- Pequeña descripción del trabajo -->
