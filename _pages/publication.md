@@ -16,7 +16,22 @@ You can also find my complete profile and citation metrics on [Google Scholar](h
 
 ### 2026
 
-* **Toro-Cardona, F. A.**, Velasco, J. A., Pinto-Ledezma, J., Rovito, S. M., Villalobos, F., Rojas-Soto, O., & Parra, J. L. (2026). Climatic niche properties shape treefrog diversity. *PLoS ONE*. [DOI: 10.1371/journal.pone.0348700](https://doi.org/10.1371/journal.pone.0348700)
+<div style="display: flex; align-items: flex-start; margin-bottom: 25px; padding-bottom: 20px; border-bottom: 1px solid #eaeaea;">
+  <!-- Imagen miniatura -->
+  <img src="/assets/images/publications/treefrogs-2026.jpg" alt="Climatic niche properties shape treefrog diversity" style="width: 500px; height: 500px; min-width: 170px; margin-right: 18px; border-radius: 4px; border: 1px solid #ddd; object-fit: cover;">
+  
+  <!-- Contenido -->
+  <div>
+    <p style="margin: 0 0 6px 0; line-height: 1.4; font-size: 0.93em;">
+      <strong>Toro-Cardona, F. A.</strong>, Velasco, J. A., Pinto-Ledezma, J., Rovito, S. M., Villalobos, F., Rojas-Soto, O., & Parra, J. L. (2026). Climatic niche properties shape treefrog diversity. <em>PLoS ONE</em>. <a href="https://doi.org/10.1371/journal.pone.0348700" target="_blank">[DOI]</a>
+    </p>
+    <!-- Pequeña descripción del trabajo -->
+    <p style="margin: 0; font-size: 0.93em; color: #555; line-height: 1.4;">
+      This is the first paper from my PhD studies. Here we evaluate how climatic niche properties explain macroecological patterns of diversity in treefrogs (Hylidae). We estimated niche breadth, marginality and phylogenetic position and evaluated how this properties explain the richness pattern of treefrogs in the Americas. Our results show that areas with high treefrog richness are primarily composed of species with narrower niche breadths and niches closely resembling their common ancestor.
+    </p>
+  </div>
+</div>
+
 
 * **Toro-Cardona, F. A.**, Díaz-Vallejo, M., Trinidad-Dominguez, C., Betancur, J. S., Restrepo-Arias, M., Pinzón-Cárdenas, P. A., Chinome, A., Rivera-Gutierrez, H. F., González-Quevedo, C., & Parra, J. L. (2026). Does Niche centrality predicts trait variation in the Antioquia Wren. *Biodiversity Informatics*, 20, 32-58. [DOI: 10.17161/bi.v20i1.23939](https://doi.org/10.17161/bi.v20i1.23939)
 
