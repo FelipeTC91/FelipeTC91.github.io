@@ -2,7 +2,8 @@
 layout: single
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
+classes: wide
 header:
   overlay_image: /assets/images/3.png
 ---
@@ -53,7 +54,7 @@ You can also find my complete profile and citation metrics on [Google Scholar](h
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 25px; padding-bottom: 20px; border-bottom: 1px solid #eaeaea;">
   <!-- Imagen miniatura -->
-  <img src="/assets/images/Toro_Cardona et al_2023.jpg" alt="Predicting daily activity time" style="width: 110px; height: auto; min-width: 110px; margin-right: 18px; border-radius: 4px; border: 1px solid #ddd; object-fit: cover;">
+  <img src="/assets/images/Toro_Cardona et al_2023.jpg" alt="Predicting daily activity time" style="width: 300px; height: auto; min-width: 300px; margin-right: 18px; border-radius: 4px; border: 1px solid #ddd; object-fit: cover;">
   
   <!-- Contenido -->
   <div>
@@ -62,7 +63,7 @@ You can also find my complete profile and citation metrics on [Google Scholar](h
     </p>
     <!-- Pequeña descripción del trabajo -->
     <p style="margin: 0; font-size: 0.93em; color: #555; line-height: 1.4;">
-      This was the paper from my Master studies. We combine niche ecological models with microclimate data to estimate daily activity times for Gila monster, helping us better understand their thermal and ecological limits.
+      This was the paper from my Master studies. We combine niche ecological models with microclimate data to estimate daily activity times for Gila monster, helping us better understand their thermal and ecological limits. We conclude that ecological niche models trained with microclimatic data can be used to predict activity patterns at high temporal resolutions, particularly on ectotherm species of arid zones coping with rapid climate modifications. 
     </p>
   </div>
 </div>
