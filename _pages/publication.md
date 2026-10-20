@@ -51,7 +51,22 @@ You can also find my complete profile and citation metrics on [Google Scholar](h
 
 ### 2023
 
-* **Toro-Cardona, F. A.**, Parra, J. L., & Rojas-Soto, O. (2023). Predicting daily activity time through ecological niche modelling and microclimatic data. *Journal of Animal Ecology*, 92(4), 925-935. [DOI: 10.1111/1365-2656.13895](https://doi.org/10.1111/1365-2656.13895)
+<div style="display: flex; align-items: flex-start; margin-bottom: 25px; padding-bottom: 20px; border-bottom: 1px solid #eaeaea;">
+  <!-- Imagen miniatura -->
+  <img src="/assets/images/publications/Toro_Cardona et al_2023.jpg" alt="Predicting daily activity time" style="width: 110px; height: auto; min-width: 110px; margin-right: 18px; border-radius: 4px; border: 1px solid #ddd; object-fit: cover;">
+  
+  <!-- Contenido -->
+  <div>
+    <p style="margin: 0 0 6px 0; line-height: 1.4;">
+      <strong>Toro-Cardona, F. A.</strong>, Parra, J. L., & Rojas-Soto, O. (2023). Predicting daily activity time through ecological niche modelling and microclimatic data. <em>Journal of Animal Ecology</em>, 92(4), 925-935. <a href="https://doi.org/10.1111/1365-2656.13895" target="_blank">[DOI]</a>
+    </p>
+    <!-- Pequeña descripción del trabajo -->
+    <p style="margin: 0; font-size: 0.93em; color: #555; line-height: 1.4;">
+      This was the paper from my Master studies. We combine niche ecological models with microclimate data to estimate daily activity times for Gila monster, helping us better understand their thermal and ecological limits.
+    </p>
+  </div>
+</div>
+  
 
 * Arango-Lozano, J., Patiño-Siro, D., & **Toro-Cardona, F. A.** (2023). Reaching new environments through illegal trade: evidence of a widely traded turtle in Colombia. *Aquatic Ecology*, 1-10. [DOI: 10.1007/s10452-023-10023-z](https://doi.org/10.1007/s10452-023-10023-z)
 
