@@ -1,24 +1,10 @@
 ---
-layout: single
+layout: splash
 title: "Publications"
 permalink: /publications/
-author_profile: false
-classes: wide
 header:
   overlay_image: /assets/images/3.png
 ---
-
-<style>
-  .sidebar, .author__profile {
-    display: none !important;
-  }
-  .initial-content, .page__inner-wrap, #main {
-    max-width: 100% !important;
-    padding-left: 20px !important;
-    padding-right: 20px !important;
-    margin: 0 auto !important;
-  }
-</style>
 
 <div markdown="1">
 
