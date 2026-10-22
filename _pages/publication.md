@@ -45,7 +45,21 @@ You can also find my complete profile and citation metrics on [Google Scholar](h
 
 ### 2025
 
-* Alvarez-Alvarez, E., Almazán-Núñez, R. C., **Toro-Cardona, F. A.**, Herrera-Montalvo, L., Tolsá-García, M. J., Talavera-Mendoza, O., & Lopezaraiza-Mikel, M. (2025). Seasonal climatic niche-switching migration in the Nearctic–Neotropical Rufous Hummingbird (Selasphorus rufus). *PLoS ONE*. [DOI: 10.1371/journal.pone.0334958](https://doi.org/10.1371/journal.pone.0334958)
+<div style="display: flex; align-items: flex-start; margin-bottom: 25px; padding-bottom: 20px; border-bottom: 1px solid #eaeaea;">
+  <!-- Imagen miniatura -->
+  <img src="/assets/images/Alvarez-Alvarez et al_2025.jpg" alt="Seasonal climatic niche-switching migration in the Rufous Hummingbird" style="width: 500px; height: auto; min-width: 500px; margin-right: 18px; border-radius: 4px; border: 1px solid #ddd; object-fit: cover;">
+  
+  <!-- Contenido -->
+  <div>
+    <p style="margin: 0 0 6px 0; line-height: 1.4; font-size: 0.93em;">
+      Alvarez-Alvarez, E., Almazán-Núñez, R. C., <strong>Toro-Cardona, F. A.</strong>, Herrera-Montalvo, L., Tolsá-García, M. J., Talavera-Mendoza, O., & Lopezaraiza-Mikel, M. (2025). Seasonal climatic niche-switching migration in the Nearctic–Neotropical Rufous Hummingbird (Selasphorus rufus). <em>PLoS ONE</em>. <a href="https://doi.org/10.1371/journal.pone.0334958" target="_blank">[DOI]</a>
+    </p>
+    <!-- Pequeña descripción del trabajo -->
+    <p style="margin: 0; font-size: 0.93em; color: #555; line-height: 1.4;">
+      The migratory birds are an excelent system to study the enviromental variation allong great distances. Here we characterized the Rufous Hummingbird’s geographic distribution and seasonal climatic niche in both its reproductive and wintering areas. Our results indicate that the Rufous Hummingbird is a latitudinal and longitudinally migratory species that engages in niche-switching, occupying distinct climatic conditions. This suggest that the Rufous Hummingbird may be linked to its adaptive plasticity in response to varying climatic conditions, competition for resources, and recent climate change. 
+    </p>
+  </div>
+</div>
 
 * Arango-Lozano, J., **Toro-Cardona, F. A.**, Orozco Montilla, S., & Ramírez-Chaves, H. (2025). Ecological forecasting for night monkeys within the Aotus lemurinus complex (Primates, Aotidae): Climate change and habitat vulnerability. *International Journal of Primatology*. [DOI: 10.1007/s10764-024-00481-z](https://doi.org/10.1007/s10764-024-00481-z)
 
@@ -61,8 +75,21 @@ You can also find my complete profile and citation metrics on [Google Scholar](h
 
 * Páez, V., Bock, B., **Toro-Cardona, F. A.**, & Cartagena-Otalvaro, V. (2024). Lessons learned during a twelve-year monitoring project with the endangered Magdalena River turtle (Podocnemis lewyana): Hunting pressure, habitat degradation, and methodological considerations. *Environmental Monitoring and Assessment*. [DOI: 10.1007/s10661-024-12944-0](https://doi.org/10.1007/s10661-024-12944-0)
 
-* Rojas‐Soto, O., Forero‐Rodríguez, J. S., Galindo‐Cruz, A., Mota‐Vargas, C., Parra‐Henao, K. D., Peña‐Peniche, A., Piña-Torres, J., **Toro-Cardona, F. A.**, Sánchez-Rodriguez, J. D., & Trinidad‐Domínguez, C. D. (2024). Calibration areas in ecological niche and species distribution modelling: Unravelling approaches and concepts. *Journal of Biogeography*. [DOI: 10.1111/jbi.14834](https://doi.org/10.1111/jbi.14834)
-
+<div style="display: flex; align-items: flex-start; margin-bottom: 25px; padding-bottom: 20px; border-bottom: 1px solid #eaeaea;">
+  <!-- Imagen miniatura -->
+  <img src="/assets/images/Rojas-Soro et al_2024.jpg" alt="Calibration areas in ecological niche and species distribution modelling" style="width: 500px; height: auto; min-width: 500px; margin-right: 18px; border-radius: 4px; border: 1px solid #ddd; object-fit: cover;">
+  
+  <!-- Contenido -->
+  <div>
+    <p style="margin: 0 0 6px 0; line-height: 1.4;  font-size: 0.93em;">
+      Rojas-Soto, O., Forero-Rodríguez, J. S., Galindo-Cruz, A., Mota-Vargas, C., Parra-Henao, K. D., Peña-Peniche, A., Piña-Torres, J., <strong>Toro-Cardona, F. A.</strong>, Sánchez-Rodriguez, J. D., & Trinidad-Domínguez, C. D. (2024). Calibration areas in ecological niche and species distribution modelling: Unravelling approaches and concepts. <em>Journal of Biogeography</em>. <a href="https://doi.org/10.1111/jbi.14834" target="_blank">[DOI]</a>
+    </p>
+    <!-- Pequeña descripción del trabajo -->
+    <p style="margin: 0; font-size: 0.93em; color: #555; line-height: 1.4;">
+     The calibration area (CA) corresponds to the geographic region used by different algorithms that estimate the species' climatic niche and delimit its geographic distribution. This region is key for several factors in niche modeling; however, there are many ways to create them, and there is no consensus about which is the best method. After a literature review and testing different CA methods using 31 species, we recommend that biogeographical entities might be the best method; however, this study does not invalidate the use of other methods.
+    </p>
+  </div>
+</div>
 ### 2023
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 25px; padding-bottom: 20px; border-bottom: 1px solid #eaeaea;">
