@@ -8,7 +8,6 @@ header:
 
 <div markdown="1">
 
-You can also find my complete profile and citation metrics on [Google Scholar](https://scholar.google.com/citations?user=2b3hF0gAAAAJ&hl=es) or [ORCID](https://orcid.org/0000-0002-3112-1492).
 
 ---
 
@@ -33,7 +32,21 @@ You can also find my complete profile and citation metrics on [Google Scholar](h
 </div>
 
 
-* **Toro-Cardona, F. A.**, Díaz-Vallejo, M., Trinidad-Dominguez, C., Betancur, J. S., Restrepo-Arias, M., Pinzón-Cárdenas, P. A., Chinome, A., Rivera-Gutierrez, H. F., González-Quevedo, C., & Parra, J. L. (2026). Does Niche centrality predicts trait variation in the Antioquia Wren. *Biodiversity Informatics*, 20, 32-58. [DOI: 10.17161/bi.v20i1.23939](https://doi.org/10.17161/bi.v20i1.23939)
+<div style="display: flex; align-items: flex-start; margin-bottom: 25px; padding-bottom: 20px; border-bottom: 1px solid #eaeaea;">
+  <!-- Imagen miniatura -->
+  <img src="/assets/images/Toro-Cardona et al_2026-2.jpg" alt="Does Niche centrality predicts trait variation in the Antioquia Wren" style="width: 500px; height: auto; min-width: 500px; margin-right: 18px; border-radius: 4px; border: 1px solid #ddd; object-fit: cover;">
+  
+  <!-- Contenido -->
+  <div>
+    <p style="margin: 0 0 6px 0; line-height: 1.4; font-size: 0.93em;">
+      <strong>Toro-Cardona, F. A.</strong>, Díaz-Vallejo, M., Trinidad-Dominguez, C., Betancur, J. S., Restrepo-Arias, M., Pinzón-Cárdenas, P. A., Chinome, A., Rivera-Gutierrez, H. F., González-Quevedo, C., & Parra, J. L. (2026). Does Niche centrality predicts trait variation in the Antioquia Wren. <em>Biodiversity Informatics</em>, 20, 32-58. <a href="https://doi.org/10.17161/bi.v20i1.23939" target="_blank">[DOI]</a>
+    </p>
+    <!-- Pequeña descripción del trabajo -->
+    <p style="margin: 0; font-size: 0.93em; color: #555; line-height: 1.4;">
+      The niche-centrality hypothesis posits that, toward the centroid of a species' niche, individuals or populations should exhibit higher fitness or individual characteristics that reflect an individual's physiological or developmental state. In this study, we use this hypothesis to analyze variation in traits related to morphometrics, coloration, acoustics (song), and genetic diversity in *Thryophilus sernai*, a bird species endemic to Colombia. We find that not all traits respond in the same way (showing either positive or negative relationships) and that this response depends, among other factors, on how the niche is estimated (i.e., the variables used).
+    </p>
+  </div>
+</div>
 
 * Arango-Lozano, J., Orozco Montilla, S., **Toro-Cardona, F. A.**, & Ramírez-Chaves, H. (2026). Challenging the allopatric patterns of threatened night monkeys: ecological niche modeling within the Aotus lemurinus complex. *Mammalia*. [DOI: 10.1515/mammalia-2025-0076](https://doi.org/10.1515/mammalia-2025-0076)
 
@@ -63,14 +76,42 @@ You can also find my complete profile and citation metrics on [Google Scholar](h
 
 * Arango-Lozano, J., **Toro-Cardona, F. A.**, Orozco Montilla, S., & Ramírez-Chaves, H. (2025). Ecological forecasting for night monkeys within the Aotus lemurinus complex (Primates, Aotidae): Climate change and habitat vulnerability. *International Journal of Primatology*. [DOI: 10.1007/s10764-024-00481-z](https://doi.org/10.1007/s10764-024-00481-z)
 
-* Díaz-Vallejo, M., **Toro-Cardona, F. A.**, Bonilla-Moheno, M., Parra, J., & Rojas-Soto, O. (2025). The relationship between the terrain slope and biodiversity conservation: a perspective from the specialist avifauna of Mexico. *Biological Conservation*. [DOI: 10.1016/j.biocon.2025.111219](https://doi.org/10.1016/j.biocon.2025.111219)
+<div style="display: flex; align-items: flex-start; margin-bottom: 25px; padding-bottom: 20px; border-bottom: 1px solid #eaeaea;">
+  <!-- Imagen miniatura -->
+  <img src="/assets/images/Diaz et al_2025.jpg" alt="The relationship between the terrain slope and biodiversity conservation" style="width: 500px; height: auto; min-width: 500px; margin-right: 18px; border-radius: 4px; border: 1px solid #ddd; object-fit: cover;">
+  
+  <!-- Contenido -->
+  <div>
+    <p style="margin: 0 0 6px 0; line-height: 1.4; font-size: 0.93em;">
+      Díaz-Vallejo, M., <strong>Toro-Cardona, F. A.</strong>, Bonilla-Moheno, M., Parra, J., & Rojas-Soto, O. (2025). The relationship between the terrain slope and biodiversity conservation: a perspective from the specialist avifauna of Mexico. <em>Biological Conservation</em>. <a href="https://doi.org/10.1016/j.biocon.2025.111219" target="_blank">[DOI]</a>
+    </p>
+    <!-- Pequeña descripción del trabajo -->
+    <p style="margin: 0; font-size: 0.93em; color: #555; line-height: 1.4;">
+       Here we analyzed whether the potential richness distributions of conserved vegetation specialist bird species increase with the terrain slope in Mexico, considering it a proxy for landscape transformation. We found that steep slopes in Mexico represent biodiversity refuges. On the other hand, we
+identified areas where transformation patterns have intensified in areas of slight and moderate slopes, leading to a loss of between 60 % and 75 % of the distribution of some species.
+    </p>
+  </div>
+</div>
 
 * Olave-Leyva, J. I., Martines-Burnes, J., **Toro-Cardona, F. A.**, Aguilar-Satién, A., Aréchiga-Ceballos, N., Barrios-García, H., & Soria-Díaz, L. (2025). Distribution of Desmodus rotundus and its implications for rabies in Mexico. *EcoHealth*. [DOI: 10.1007/s10393-025-01719-9](https://doi.org/10.1007/s10393-025-01719-9)
 
 ### 2024
 
-* Cruz, C., **Toro-Cardona, F. A.**, & Parra, J. L. (2024). Integrating niche and occupancy models to infer the distribution of an endemic fossorial snake (Atractus lasallei). *PLoS ONE*. [DOI: 10.1371/journal.pone.0308931](https://doi.org/10.1371/journal.pone.0308931)
-
+<div style="display: flex; align-items: flex-start; margin-bottom: 25px; padding-bottom: 20px; border-bottom: 1px solid #eaeaea;">
+  <!-- Imagen miniatura -->
+  <img src="/assets/images/Cruz et al_2024.jpg" alt="Integrating niche and occupancy models for Atractus lasallei" style="width: 500px; height: auto; min-width: 500px; margin-right: 18px; border-radius: 4px; border: 1px solid #ddd; object-fit: cover;">
+  
+  <!-- Contenido -->
+  <div>
+    <p style="margin: 0 0 6px 0; line-height: 1.4; font-size: 0.93em;">
+      Cruz, C., <strong>Toro-Cardona, F. A.</strong>, & Parra, J. L. (2024). Integrating niche and occupancy models to infer the distribution of an endemic fossorial snake (Atractus lasallei). <em>PLoS ONE</em>. <a href="https://doi.org/10.1371/journal.pone.0308931" target="_blank">[DOI]</a>
+    </p>
+    <!-- Pequeña descripción del trabajo -->
+    <p style="margin: 0; font-size: 0.93em; color: #555; line-height: 1.4;">
+      In this study, we integrated broad-scale ecological niche models with local occupancy models to determine the actual geographic distribution and habitat requirements Atractus lasallei in Colombia. We found that the species is closely associated with flat terrain and low vegetation cover—areas that are heavily impacted by agriculture and livestock. Our findings highlight the species' vulnerability and the urgent need for local conservation and environmental education efforts. Further, we suggest that integration of both models may be key for biodiversity conservation. 
+    </p>
+  </div>
+</div>
 * Salazar-Miranda, M. R., **Toro-Cardona, F. A.**, Rojas-Soto, O., Sierra-Morales, P., Ríos-Muñoz, C., & Almazán-Núñez, R. C. (2024). Critical habitats: Climate change and habitat loss as drivers of change trends in the geographic ranges of Neotropical woodcreepers (Aves: Furnariidae) in Mexico. *Regional Environmental Change*, 24, 158. [DOI: 10.1007/s10113-024-02303-7](https://doi.org/10.1007/s10113-024-02303-7)
 
 * Páez, V., Bock, B., **Toro-Cardona, F. A.**, & Cartagena-Otalvaro, V. (2024). Lessons learned during a twelve-year monitoring project with the endangered Magdalena River turtle (Podocnemis lewyana): Hunting pressure, habitat degradation, and methodological considerations. *Environmental Monitoring and Assessment*. [DOI: 10.1007/s10661-024-12944-0](https://doi.org/10.1007/s10661-024-12944-0)
@@ -103,13 +144,27 @@ You can also find my complete profile and citation metrics on [Google Scholar](h
     </p>
     <!-- Pequeña descripción del trabajo -->
     <p style="margin: 0; font-size: 0.93em; color: #555; line-height: 1.4;">
-      This was the paper from my Master studies. We combine niche ecological models with microclimate data to estimate daily activity times for Gila monster, helping us better understand their thermal and ecological limits. We conclude that ecological niche models trained with microclimatic data can be used to predict activity patterns at high temporal resolutions, particularly on ectotherm species of arid zones coping with rapid climate modifications. 
+      This was the paper from my Master studies. We combine ecological niche models with microclimate data to estimate daily activity times for Gila monster, helping us better understand their thermal and ecological limits. Our model agrees with previous physiological data, thus it allowed us to predict activity patterns at high temporal resolutions, particularly on ectotherm species of arid zones coping with rapid climate modifications; and may be an interesting approach to study activity patterns under climate change scenarios. 
     </p>
   </div>
 </div>
   
 
-* Arango-Lozano, J., Patiño-Siro, D., & **Toro-Cardona, F. A.** (2023). Reaching new environments through illegal trade: evidence of a widely traded turtle in Colombia. *Aquatic Ecology*, 1-10. [DOI: 10.1007/s10452-023-10023-z](https://doi.org/10.1007/s10452-023-10023-z)
+<div style="display: flex; align-items: flex-start; margin-bottom: 25px; padding-bottom: 20px; border-bottom: 1px solid #eaeaea;">
+  <!-- Imagen miniatura -->
+  <img src="/assets/images/Arango-Lozano et al. 2023.jpg" alt="Reaching new environments through illegal trade" style="width: 500px; height: auto; min-width: 500px; margin-right: 18px; border-radius: 4px; border: 1px solid #ddd; object-fit: cover;">
+  
+  <!-- Contenido -->
+  <div>
+    <p style="margin: 0 0 6px 0; line-height: 1.4; font-size: 0.93em;">
+      Arango-Lozano, J., Patiño-Siro, D., & <strong>Toro-Cardona, F. A.</strong> (2023). Reaching new environments through illegal trade: evidence of a widely traded turtle in Colombia. <em>Aquatic Ecology</em>, 1-10. <a href="https://doi.org/10.1007/s10452-023-10023-z" target="_blank">[DOI]</a>
+    </p>
+    <!-- Pequeña descripción del trabajo -->
+    <p style="margin: 0; font-size: 0.93em; color: #555; line-height: 1.4;">
+      In this study, we investigated how illegal wildlife trade and the release of unwanted pets drive the establishment of exotic populations of the turtle Trachemys venusta callirostris in Colombia. Using ecological niche modeling and niche similarity tests, we compared native and introduced populations to evaluate potential environmental shifts. Our results revealed a low niche overlap, indicating that introduced populations have successfully established under novel climatic conditions—such as higher altitudes—thanks to the species' generalist traits. These findings highlight the hidden risks of wildlife trafficking and emphasize the urgent need to monitor these exotic populations to protect native aquatic ecosystems.
+    </p>
+  </div>
+</div>
 
 * Rincón‐Aranguri, M., **Toro‐Cardona, F. A.**, Galeano, S. P., Roa‐Fuentes, L., & Urbina‐Cardona, N. (2023). Functional diversity of snakes is explained by the landscape composition at multiple areas of influence. *Ecology and Evolution*, 13(7), e10352. [DOI: 10.1002/ece3.10352](https://doi.org/10.1002/ece3.10352)
 
