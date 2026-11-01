@@ -140,7 +140,7 @@ identified areas where transformation patterns have intensified in areas of slig
     </p>
     <!-- Pequeña descripción del trabajo -->
     <p style="margin: 0; font-size: 0.93em; color: #555; line-height: 1.4;">
-      In this 12-year study, we monitored populations of the endangered Magdalena River turtle (Podocnemis lewyana) across different channels in Colombia to evaluate demographic trends, hunting pressure, and habitat degradation. We found significant declines in the proportions of large adult females and juveniles over time, supporting the conclusion that selective hunting heavily impacts recruitment and population persistence. In contrast, body condition analyses showed no generalized decline, suggesting that ongoing shoreline deforestation had a relatively lesser impact during the study period. These findings highlight the value of long-term capture monitoring to assess conservation status and direct management actions for aquatic turtles with low recapture rates.
+      In this 12-year study, we monitored populations of the endangered Magdalena River turtle (Podocnemis lewyana) across different channels in Colombia. We found significant declines in the proportions of large adult females and juveniles over time, supporting the conclusion that selective hunting heavily impacts recruitment and population persistence. In contrast, body condition analyses showed no generalized decline, suggesting that ongoing shoreline deforestation had a relatively lesser impact during the study period. These findings highlight the value of long-term capture monitoring to assess conservation status and direct management actions for aquatic turtles with low recapture rates.
     </p>
   </div>
 </div>
