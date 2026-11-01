@@ -112,7 +112,22 @@ identified areas where transformation patterns have intensified in areas of slig
     </p>
   </div>
 </div>
-* Salazar-Miranda, M. R., **Toro-Cardona, F. A.**, Rojas-Soto, O., Sierra-Morales, P., Ríos-Muñoz, C., & Almazán-Núñez, R. C. (2024). Critical habitats: Climate change and habitat loss as drivers of change trends in the geographic ranges of Neotropical woodcreepers (Aves: Furnariidae) in Mexico. *Regional Environmental Change*, 24, 158. [DOI: 10.1007/s10113-024-02303-7](https://doi.org/10.1007/s10113-024-02303-7)
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 25px; padding-bottom: 20px; border-bottom: 1px solid #eaeaea;">
+  <!-- Imagen miniatura -->
+  <img src="/assets/images/Salazar et al_2024.jpg" alt="Critical habitats: Climate change and habitat loss as drivers of change trends in woodcreepers" style="width: 500px; height: auto; min-width: 500px; margin-right: 18px; border-radius: 4px; border: 1px solid #ddd; object-fit: cover;">
+  
+  <!-- Contenido -->
+  <div>
+    <p style="margin: 0 0 6px 0; line-height: 1.4; font-size: 0.93em;">
+      Salazar-Miranda, M. R., <strong>Toro-Cardona, F. A.</strong>, Rojas-Soto, O., Sierra-Morales, P., Ríos-Muñoz, C., & Almazán-Núñez, R. C. (2024). Critical habitats: Climate change and habitat loss as drivers of change trends in the geographic ranges of Neotropical woodcreepers (Aves: Furnariidae) in Mexico. <em>Regional Environmental Change</em>, 24, 158. <a href="https://doi.org/10.1007/s10113-024-02303-7" target="_blank">[DOI]</a>
+    </p>
+    <!-- Pequeña descripción del trabajo -->
+    <p style="margin: 0; font-size: 0.93em; color: #555; line-height: 1.4;">
+      In this study, we evaluated how the combined effects of climate change and primary habitat loss (deforestation) will affect the geographic distribution of 15 woodcreeper species (Furnariidae) in Mexico by 2050. We found that climatically suitable areas for these birds will drastically shrink by 60% to 74% under future scenarios. When historical forest loss is also factored in, range reductions reach up to 97% for restricted-range species. These findings highlight a severe threat to this ecologically specialized bird group, emphasizing the urgent need to identify and protect critical, stable habitats to ensure their long-term survival.
+    </p>
+  </div>
+</div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 25px; padding-bottom: 20px; border-bottom: 1px solid #eaeaea;">
   <!-- Imagen miniatura -->
