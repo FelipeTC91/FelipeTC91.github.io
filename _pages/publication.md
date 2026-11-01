@@ -166,8 +166,21 @@ identified areas where transformation patterns have intensified in areas of slig
   </div>
 </div>
 
-* Rincón‐Aranguri, M., **Toro‐Cardona, F. A.**, Galeano, S. P., Roa‐Fuentes, L., & Urbina‐Cardona, N. (2023). Functional diversity of snakes is explained by the landscape composition at multiple areas of influence. *Ecology and Evolution*, 13(7), e10352. [DOI: 10.1002/ece3.10352](https://doi.org/10.1002/ece3.10352)
-
+<div style="display: flex; align-items: flex-start; margin-bottom: 25px; padding-bottom: 20px; border-bottom: 1px solid #eaeaea;">
+  <!-- Imagen miniatura -->
+  <img src="/assets/images/publications/Rincon et al. 2023.jpg" alt="Functional diversity of snakes is explained by the landscape composition" style="width: 500px; height: auto; min-width: 500px; margin-right: 18px; border-radius: 4px; border: 1px solid #ddd; object-fit: cover;">
+  
+  <!-- Contenido -->
+  <div>
+    <p style="margin: 0 0 6px 0; line-height: 1.4;">
+      Rincón‐Aranguri, M., <strong>Toro‐Cardona, F. A.</strong>, Galeano, S. P., Roa‐Fuentes, L., & Urbina‐Cardona, N. (2023). Functional diversity of snakes is explained by the landscape composition at multiple areas of influence. <em>Ecology and Evolution</em>, 13(7), e10352. <a href="https://doi.org/10.1002/ece3.10352" target="_blank">[DOI]</a>
+    </p>
+    <!-- Pequeña descripción del trabajo -->
+    <p style="margin: 0; font-size: 0.93em; color: #555; line-height: 1.4;">
+      In this study, we evaluated how landscape composition across multiple spatial scales affects the functional diversity of snake assemblages, comparing roadkill victims with individuals living in adjacent vegetation in the Colombian Orinoco. We found that landscape transformation has a stronger effect on snake functional diversity than road mortality alone. While roads tend to eliminate species with similar ecological roles, snakes surviving in adjacent vegetation show a high vulnerability to habitat changes. Our results highlight that preserving native forest patches at broader scales promotes snake conservation.
+    </p>
+  </div>
+</div>
 ---
 
 ## 📚 Books & Book Chapters
