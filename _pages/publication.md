@@ -168,7 +168,7 @@ identified areas where transformation patterns have intensified in areas of slig
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 25px; padding-bottom: 20px; border-bottom: 1px solid #eaeaea;">
   <!-- Imagen miniatura -->
-  <img src="/assets/images/publications/Rincon et al. 2023.jpg" alt="Functional diversity of snakes is explained by the landscape composition" style="width: 500px; height: auto; min-width: 500px; margin-right: 18px; border-radius: 4px; border: 1px solid #ddd; object-fit: cover;">
+  <img src="/assets/images/Rincon et al. 2023.jpg" alt="Functional diversity of snakes is explained by the landscape composition" style="width: 500px; height: auto; min-width: 500px; margin-right: 18px; border-radius: 4px; border: 1px solid #ddd; object-fit: cover;">
   
   <!-- Contenido -->
   <div>
