@@ -114,7 +114,21 @@ identified areas where transformation patterns have intensified in areas of slig
 </div>
 * Salazar-Miranda, M. R., **Toro-Cardona, F. A.**, Rojas-Soto, O., Sierra-Morales, P., Ríos-Muñoz, C., & Almazán-Núñez, R. C. (2024). Critical habitats: Climate change and habitat loss as drivers of change trends in the geographic ranges of Neotropical woodcreepers (Aves: Furnariidae) in Mexico. *Regional Environmental Change*, 24, 158. [DOI: 10.1007/s10113-024-02303-7](https://doi.org/10.1007/s10113-024-02303-7)
 
-* Páez, V., Bock, B., **Toro-Cardona, F. A.**, & Cartagena-Otalvaro, V. (2024). Lessons learned during a twelve-year monitoring project with the endangered Magdalena River turtle (Podocnemis lewyana): Hunting pressure, habitat degradation, and methodological considerations. *Environmental Monitoring and Assessment*. [DOI: 10.1007/s10661-024-12944-0](https://doi.org/10.1007/s10661-024-12944-0)
+<div style="display: flex; align-items: flex-start; margin-bottom: 25px; padding-bottom: 20px; border-bottom: 1px solid #eaeaea;">
+  <!-- Imagen miniatura -->
+  <img src="/assets/images/Paez et al_2024.jpg" alt="Lessons learned during a twelve-year monitoring project with Podocnemis lewyana" style="width: 500px; height: auto; min-width: 500px; margin-right: 18px; border-radius: 4px; border: 1px solid #ddd; object-fit: cover;">
+  
+  <!-- Contenido -->
+  <div>
+    <p style="margin: 0 0 6px 0; line-height: 1.4; font-size: 0.93em;">
+      Páez, V., Bock, B., <strong>Toro-Cardona, F. A.</strong>, & Cartagena-Otalvaro, V. (2024). Lessons learned during a twelve-year monitoring project with the endangered Magdalena River turtle (Podocnemis lewyana): Hunting pressure, habitat degradation, and methodological considerations. <em>Environmental Monitoring and Assessment</em>. <a href="https://doi.org/10.1007/s10661-024-12944-0" target="_blank">[DOI]</a>
+    </p>
+    <!-- Pequeña descripción del trabajo -->
+    <p style="margin: 0; font-size: 0.93em; color: #555; line-height: 1.4;">
+      In this 12-year study, we monitored populations of the endangered Magdalena River turtle (Podocnemis lewyana) across different channels in Colombia to evaluate demographic trends, hunting pressure, and habitat degradation. We found significant declines in the proportions of large adult females and juveniles over time, supporting the conclusion that selective hunting heavily impacts recruitment and population persistence. In contrast, body condition analyses showed no generalized decline, suggesting that ongoing shoreline deforestation had a relatively lesser impact during the study period. These findings highlight the value of long-term capture monitoring to assess conservation status and direct management actions for aquatic turtles with low recapture rates.
+    </p>
+  </div>
+</div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 25px; padding-bottom: 20px; border-bottom: 1px solid #eaeaea;">
   <!-- Imagen miniatura -->
